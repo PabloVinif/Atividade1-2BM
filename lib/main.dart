@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Aplicação Bancária',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.purple,
       ),
       home: TelaListaContas(), // Tela inicial.
     );
